@@ -10,3 +10,5 @@ A simple comparison between Logistic Regression,SVM , Decision Tree and KNN mode
 SVM has the best fit with 77% test accuracy and F1 score of .62
 
 Please read the note book for information about the data and implementation of classifiers used.
+
+[Notebook](https://github.com/utkarshut/ML-Projects/blob/master/ibm_watson_loan_best_classification/Loan_Case_Best_Classifier.ipynb)
