@@ -1,4 +1,4 @@
-# IBM_watson_loan_best_classifier_project
+# IBM Watson - Loan Best Classifier Project
 
 Final project of IBM's course https://www.coursera.org/learn/machine-learning-with-python on coursera
 
