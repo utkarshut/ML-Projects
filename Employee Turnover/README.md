@@ -16,10 +16,14 @@ The dataset can be found in the same directory HR_comma_sep.csv and includes fol
 
 **Evaluation**: Comparing the accuracy and f1 scores for different models to select the most suitable one
 **Conclusions**: Choosing the best model with appropriate reasons
-final results:
+
+**final results:**
+
 <img src="./test_scores.png" alt="Final Output"/>
-Featur importance:
+
+**Feature importance:**
 <img src="./feature_importance.png" alt="Final Output"/>
+
 **Evaluation and Conclusions**
 - Employee **satisfaction** is the **highest indicator** for employee turnover
 - Employee **satisfaction, time spend in company,yearsAtCompany, and evaluation** were the four biggest factors in determining turnover.
