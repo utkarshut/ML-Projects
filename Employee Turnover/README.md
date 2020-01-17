@@ -6,11 +6,15 @@ The dataset can be found in the same directory HR_comma_sep.csv and includes fol
 
 ### Steps Involved:
 
-**Data Cleaning**: Dealing with incorrect encodings, removing unnecessary/invalid features
-**Data Exploration**: Find high frequency words for spam vs not spam messages, explore features such as average length of document, average no. of digits per document and average no. of non-words per document
-**Data Preprocessing**: Converting the text features into vectors using TFIDF vectorizer
-**Model Training**: Training different classification models-Multinomial Naive Bayes, SVM and Logistic Regression
-**Evaluation**: Comparing the accuracy and recall scores for different models to select the most suitable one
+**Data Exploration**: perform bivariate analysis and observed Satisfcation level , work accident, time spend , salary are factors for employee turnover that can classify data.
+
+**Statistics Test**: T test to check difference in Satisfaction level mean of the employee who had turnover and who had not turnover
+
+**Data Preprocessing**: Converting the categorcial to ordinal & one hot encoded . Also handled imbalanced dataset by upsampling and downsampling
+
+**Model Training**: Used pipeline for hyperparam tuning of different classifiers. Training different classification models-Random forest, Gradient Boosting, KNN , SVC and Logistic Regression using pipelines.
+
+**Evaluation**: Comparing the accuracy and f1 scores for different models to select the most suitable one
 **Conclusions**: Choosing the best model with appropriate reasons
 final results:
 <img src="./test_scores.png" alt="Final Output"/>
