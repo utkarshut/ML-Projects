@@ -23,11 +23,11 @@ The dataset can be found in the same directory. The dataset includes features su
 
 ### Steps Involved:
 
-Data Cleaning and Wrangling: Dealing with missing and invalid values.
-Data Exploration: Data distribution visualizations using correlation and regression plots.
-Feature Engineering:Created new derived feature using date old 
-Model Training: Train model on linear ,lasso , Random Forest , XgBoost model.
-Evaluation: Comparing RMSE for different models
+- **Data Cleaning and Wrangling**: Dealing with missing and invalid values.
+- **Data Exploration**: Data distribution visualizations using correlation and regression plots.
+- **Feature Engineering**:Created new derived feature using song date old value.
+- **Model Training**: Train model on linear ,lasso , Random Forest , XgBoost model.
+- **Evaluation**: Comparing RMSE for different models
 
 **Model RMSE**
 <img src="./data/evaluation.png" alt="Final Output"/>
