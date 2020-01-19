@@ -30,10 +30,10 @@ Model Training: Train model on linear ,lasso , Random Forest , XgBoost model.
 Evaluation: Comparing RMSE for different models
 
 **Model RMSE**
-<img src=".data/evaluation.png" alt="Final Output"/>
+<img src="../data/evaluation.png" alt="Final Output"/>
 
 **Important Features**
-<img src=".data/feature_importance.png" alt="Final Output"/>
+<img src="..data/feature_importance.png" alt="Final Output"/>
 
 Conclusion:
 As per competition we are getting highest score with XGBosst Regressor for unseen data.
