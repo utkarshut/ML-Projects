@@ -40,4 +40,10 @@ As per competition we are getting highest score with XGBosst Regressor for unsee
 
 In case of feature importance to **help Customerst to understand user behaviour and personalize the user experience** we will select random forest.
 
-As per Random forest important features are **Likes ,Comments	,Popularity	,like_per_date	,Popularity_per_date**	
+As per Random forest important features are **Likes ,Comments	,Popularity	,like_per_date	,Popularity_per_date**
+
+Please read the note book for information about the data and implementation of regressor used.
+
+[Notebook](https://github.com/utkarshut/ML-Projects/blob/master/Chartbusters%20Prediction/chartbusters-prediction-foretell-the-popularity-of-songs.ipynb)
+
+
