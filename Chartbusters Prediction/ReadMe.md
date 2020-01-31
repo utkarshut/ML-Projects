@@ -46,4 +46,4 @@ Please read the note book for information about the data and implementation of r
 
 [Notebook](https://github.com/utkarshut/ML-Projects/blob/master/Chartbusters%20Prediction/chartbusters-prediction-foretell-the-popularity-of-songs.ipynb)
 
-
+[Deployed on Heroku](https://chartbusters-song-view-predict.herokuapp.com/)
